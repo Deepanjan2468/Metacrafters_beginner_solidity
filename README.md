@@ -50,7 +50,7 @@ Once the contract is deployed, you can interact with it. After, that to check wh
 
 ## Authors
 
-Metacrafter Ishaan
+Metacrafter Deepanjan Das
 [@metacraftersio](https://twitter.com/metacraftersio)
 
 
