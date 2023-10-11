@@ -4,8 +4,8 @@ pragma solidity >=0.8.2 <0.9.0;
 
 contract Token{
 
-    string public Token_Name="ISHAAN";
-    string public Token_Abbrv="ISHAAN";
+    string public Token_Name="CAT";
+    string public Token_Abbrv="MEOW";
     uint public Total_Supply=0;
 
 
